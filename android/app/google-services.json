@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831611701648",
+    "project_id": "fbintegration-56025",
+    "storage_bucket": "fbintegration-56025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831611701648:android:472551a215ee039d77cb15",
+        "android_client_info": {
+          "package_name": "com.fbgoogleintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831611701648-66j5h8l26u8lncphlsolapeds0meopmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjgYiCLvyTR9lepwR7yC8ZPOP0yKadVQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831611701648-66j5h8l26u8lncphlsolapeds0meopmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
